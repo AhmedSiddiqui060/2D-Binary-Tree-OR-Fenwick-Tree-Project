@@ -1,0 +1,7 @@
+How To Run:
+Run FenwickTree.py File As Main Project
+
+Group Members:
+1). Muhammad Ahmed Siddiqui (18B-060-SE) 
+2). Syed Huzaifa Hussain (18B-061-SE) 
+3). Syed Abdul Ahad (18B-009-SE)
